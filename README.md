@@ -7,7 +7,9 @@
 
 ```bash
 npm install
+```
 or
+```bash
 pnpm install
 ```
 
@@ -15,6 +17,9 @@ pnpm install
 
 ```bash
 npm start
+```
 or
+```bash
+
 pnpm start
 ```
